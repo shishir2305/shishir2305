@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shishir2305
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning competitive coding
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web Devlopment and its domain
 - 📫 How to reach me shishir230501@gmail.com
 
