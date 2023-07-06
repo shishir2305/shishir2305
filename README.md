@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shishir2305
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development (MERN)
+- 🌱 I’m a Full Stack Developer (MERN)
 - 💞️ I’m looking to collaborate on Web Devlopment and its domain
 - 📫 How to reach me shishir230501@gmail.com
 
