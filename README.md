@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shishir2305
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in DSA and Web Development
 - 🌱 I’m a Full Stack Developer (MERN)
 - 💞️ I’m looking to collaborate on Web Devlopment and its domain
 - 📫 How to reach me shishir230501@gmail.com
