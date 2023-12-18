@@ -1,4 +1,4 @@
-# Hi there, I'm Shishir! 👋
+--- # Hi there, I'm Shishir! 👋 ---
 
 - 👀 I’m interested in Data Structures and Algorithms (DSA) and Web Development.
 - 🌱 I’m a Full Stack Developer (MERN Stack).
@@ -13,10 +13,6 @@
 - Database: MySQL, MongoDB, Redis
 - Version Control: Git
 - Other: RESTful APIs, GraphQL
-
-## GitHub Stats
-
-[![Shishir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shishir2305&show_icons=true&count_private=true)](https://github.com/shishir2305)
 
 ## Let's Connect
 
