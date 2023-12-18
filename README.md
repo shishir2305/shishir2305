@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @shishir2305
-- 👀 I’m interested in DSA and Web Development
-- 🌱 I’m a Full Stack Developer (MERN)
-- 💞️ I’m looking to collaborate on Web Devlopment and its domain
-- 📫 How to reach me shishir230501@gmail.com
+# Hi there, I'm Shishir! 👋
 
-<!---
-shishir2305/shishir2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Structures and Algorithms (DSA) and Web Development.
+- 🌱 I’m a Full Stack Developer (MERN Stack).
+- 💞️ I’m looking to collaborate on Web Development projects and related domains.
+- 📫 How to reach me: [shishir230501@gmail.com](mailto:shishir230501@gmail.com)
+
+## Technologies & Tools
+
+- Programming Languages: C/C++, Python, Javascript, Typescript
+- Frontend: HTML, CSS, React, TailwindCSS
+- Backend: Node.js, Express, Flask, RESTful APIs
+- Database: MySQL, MongoDB, Redis
+- Version Control: Git
+- Other: RESTful APIs, GraphQL
+
+## GitHub Stats
+
+[![Shishir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shishir2305&show_icons=true&count_private=true)](https://github.com/shishir2305)
+
+## Let's Connect
+
+- LinkedIn: [Shishir Jha](https://www.linkedin.com/in/shishirjha230501/)
+
+Feel free to explore my repositories and reach out for collaboration!
