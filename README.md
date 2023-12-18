@@ -1,4 +1,4 @@
---- # Hi there, I'm Shishir! 👋 ---
+# Hi there, I'm Shishir! 👋
 
 - 👀 I’m interested in Data Structures and Algorithms (DSA) and Web Development.
 - 🌱 I’m a Full Stack Developer (MERN Stack).
@@ -12,7 +12,7 @@
 - Backend: Node.js, Express, Flask, RESTful APIs
 - Database: MySQL, MongoDB, Redis
 - Version Control: Git
-- Other: RESTful APIs, GraphQL
+- Familiar: SocketIO, GraphQL
 
 ## Let's Connect
 
