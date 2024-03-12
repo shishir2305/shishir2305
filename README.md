@@ -6,8 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [shishir230501@gmail.com](mailto:shishir230501@gmail.com)
-* 🧠  I'm learning Data Science and Machine Learning
-* 🤝  I'm open to collaborating on Web Development Projects
+* 🧠  I'm learning Hybrid Mobile App Development
+* 🤝  I'm open to collaborating on Web or Mobile App Development projects
 
 ### Skills
 
